@@ -1,0 +1,17 @@
+{
+  "ver":1.0,
+  "se":{
+    "25":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/gil/gil_pon.mp3"},
+    "26":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/illya/illya_pon.mp3"},
+    "27":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/gil/gil_kan.mp3"},
+    "28":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/illya/illya_kan.mp3"},
+    "29":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/gil/gil_chi.mp3"},
+    "30":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/illya/illya_chi.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/gil/gil_rich.mp3"},
+    "32":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/illya/illya_rich.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/gil/gil_ron.mp3"},
+    "34":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/illya/illya_ron.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/gil/gil_tumo.mp3"},
+    "36":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/illya/illya_tumo.mp3"}
+  }
+}
