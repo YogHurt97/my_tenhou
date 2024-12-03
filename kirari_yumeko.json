@@ -1,0 +1,17 @@
+{
+  "ver":1.0,
+  "se":{
+    "25":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/kirari/kirari_pon.mp3"},
+    "26":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/yumeko/yumeko_pon.mp3"},
+    "27":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/kirari/kirari_kan.mp3"},
+    "28":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/yumeko/yumeko_kan.mp3"},
+    "29":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/kirari/kirari_chi.mp3"},
+    "30":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/yumeko/yumeko_chi.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/kirari/kirari_rich.mp3"},
+    "32":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/yumeko/yumeko_rich.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/kirari/kirari_ron.mp3"},
+    "34":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/yumeko/yumeko_ron.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/kirari/kirari_tumo.mp3"},
+    "36":{"url":"https://raw.githubusercontent.com/YogHurt97/my_tenhou/main/yumeko/yumeko_tumo.mp3"}
+  }
+}
